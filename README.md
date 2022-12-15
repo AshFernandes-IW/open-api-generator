@@ -12,3 +12,5 @@
 
 You will notice our ``EnumConverterConfiguration.java`` file located in ``src/main/java/org/openapitools/configuration`` is not properly refactored.
 * Capitalize ``partyinvolvementtypevalues`` and ``partytypevalues`` before importing the desired packages
+* Once there are no more linting errors, run ``mvn clean spring-boot:run`` in your terminal
+* Open up ``localhost:8080`` and you will be introduced to the Swagger index page
