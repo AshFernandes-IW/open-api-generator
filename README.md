@@ -6,6 +6,7 @@
 * [OpenAPI Generator](https://openapi-generator.tech/docs/installation/)
 * [Postman](https://www.postman.com/downloads/)
 
+Once that's sorted:
 * Clone this repo into a local directory: ``git clone https://github.com/AshFernandes-IW/open-api-generator/``
 * Open a terminal in the same directory and run ``npm install @openapitools/openapi-generator-cli -g``
 
